@@ -3,6 +3,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  width: 100%;
 }
 
 h1,
@@ -28,10 +29,10 @@ img {
 }
 
 #container {
-  width: 80%;
+  width: 60%;
   margin: 0 auto;
 }
 table#my_skills {
-  background-color: pink;
+  background-color: yellow;
   border-color: black;
 }
